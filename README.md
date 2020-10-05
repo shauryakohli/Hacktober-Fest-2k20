@@ -1,4 +1,4 @@
-# Hacktober-Fest-2k20
+# Hacktober-Fest-2k20 - amazing project
 This repo is to complete Hacktober Fest 2020. I will gladly accept any pull requests.
 
 > Trick to Do this.
