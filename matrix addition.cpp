@@ -4,10 +4,8 @@ int main()
 {
 	int p,q,i,j,l,a,b;
 	int A[10][10],B[10][10];
-	cout<<"Enter Number of rows"<<endl;
-	cin>>p;
-	cout<<"Enter Number of coloumns"<<endl;
-	cin>>q;
+	cout<<"Enter Number of rows and coloumns"<<endl;		//this is my edit
+	cin>>p >>q;
 	cout <<endl<<endl;
 	for(i=0;i<p;i++)
 	{
@@ -18,10 +16,8 @@ int main()
 		}
 		cout<<"\n";
 	}
-	cout<<"Enter Number of rows"<<endl;
-	cin>>a;
-	cout<<"Enter Number of coloumns"<<endl;
-	cin>>b;
+	cout<<"Enter Number of rows and coloumns"<<endl;		//this is my edit
+	cin>>a >>b;
 	cout <<endl<<endl;
 	if(p==a&&q==b)
 	{
