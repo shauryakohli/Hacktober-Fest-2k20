@@ -6,7 +6,7 @@ This repo is to complete Hacktober Fest 2020. I will gladly accept any pull requ
 If you are not willing to go youtube then just fork my repo and edit any file and i will accept any changes or anyone can submit their problems and code here.
 
 Enjoy.
-Nothing much to do easy peasy.
+Nothing much to do easy peasy lemon squeezy.
    Thank You for participating!!
 
 # Hacktober-Fest-2k20 - amazing project (Indonesian)
